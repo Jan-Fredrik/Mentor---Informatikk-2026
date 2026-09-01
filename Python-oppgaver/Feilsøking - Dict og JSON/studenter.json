@@ -1,0 +1,134 @@
+{
+  "studenter": [
+    {
+      "navn": "Gnuhild",
+      "alder": 22,
+      "by": "Mo i Rana",
+      "karakterer": [
+        5,
+        4,
+        5
+      ]
+    },
+    {
+      "navn": "Jan Fredrik, Mentor-lord",
+      "alder": 404,
+      "by": "Kristiansund",
+      "karakterer": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "navn": "Silje Trondheimsdottir",
+      "alder": 25,
+      "by": "Trånheim",
+      "karakterer": [
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "navn": "Gandalf Homlesnurrdottir",
+      "alder": 10000,
+      "by": "Naboo",
+      "karakterer": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "navn": "Kurt Nilsen",
+      "alder": 56,
+      "by": "Bergen",
+      "karakterer": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "navn": "Codey McCodeface",
+      "alder": 99999,
+      "by": "Memerica",
+      "karakterer": [
+        4,
+        0,
+        4
+      ]
+    },
+    {
+      "navn": "Kari Kodesmell",
+      "alder": 23,
+      "by": "Halden",
+      "karakterer": [
+        6,
+        5,
+        6
+      ]
+    },
+    {
+      "navn": "Lord Exception den Tredje",
+      "alder": 666,
+      "by": "Try-Catchistan",
+      "karakterer": [
+        1,
+        1,
+        6
+      ]
+    },
+    {
+      "navn": "Grete Gitpush",
+      "alder": 24,
+      "by": "Gitsund",
+      "karakterer": [
+        5,
+        4,
+        6
+      ]
+    },
+    {
+      "navn": "Ingrid Innrykk",
+      "alder": 22,
+      "by": "False-sund",
+      "karakterer": [
+        5,
+        4,
+        6
+      ]
+    },
+    {
+      "navn": "Leif Loop",
+      "alder": 24,
+      "by": "While Trueheim",
+      "karakterer": [
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "navn": "Kåre Komma",
+      "alder": 27,
+      "by": "Syntaxbyen",
+      "karakterer": [
+        2,
+        5,
+        4
+      ]
+    },
+    {
+      "navn": "Vegard Variabel",
+      "alder": 23,
+      "by": "Local Scope",
+      "karakterer": [
+        6,
+        5,
+        5
+      ]
+    }
+  ]
+}
