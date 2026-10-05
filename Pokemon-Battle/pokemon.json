@@ -1,0 +1,116 @@
+{
+  "pokemon": [
+    {
+      "name": "Pikachu",
+      "HP": 80,
+      "attacks": [
+        {
+          "name": "Thunder Shock",
+          "damage": 20
+        },
+        {
+          "name": "Quick Attack",
+          "damage": 15
+        }
+      ]
+    },
+    {
+      "name": "Charmander",
+      "HP": 90,
+      "attacks": [
+        {
+          "name": "Ember",
+          "damage": 25
+        },
+        {
+          "name": "Scratch",
+          "damage": 15
+        }
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "HP": 100,
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": 20
+        },
+        {
+          "name": "Tackle",
+          "damage": 15
+        }
+      ]
+    },
+    {
+      "name": "Bulbasaur",
+      "HP": 95,
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "damage": 25
+        },
+        {
+          "name": "Tackle",
+          "damage": 15
+        }
+      ]
+    },
+    {
+      "name": "Jigglypuff",
+      "HP": 110,
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": 15
+        },
+        {
+          "name": "Double Slap",
+          "damage": 20
+        }
+      ]
+    },
+    {
+      "name": "Geodude",
+      "HP": 100,
+      "attacks": [
+        {
+          "name": "Rock Throw",
+          "damage": 25
+        },
+        {
+          "name": "Tackle",
+          "damage": 15
+        }
+      ]
+    },
+    {
+      "name": "Psyduck",
+      "HP": 90,
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": 20
+        },
+        {
+          "name": "Confusion",
+          "damage": 25
+        }
+      ]
+    },
+    {
+      "name": "Machop",
+      "HP": 95,
+      "attacks": [
+        {
+          "name": "Karate Chop",
+          "damage": 25
+        },
+        {
+          "name": "Low Kick",
+          "damage": 20
+        }
+      ]
+    }
+  ]
+}
