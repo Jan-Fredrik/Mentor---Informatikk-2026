@@ -109,7 +109,22 @@ def pokemon_death_check():
 pygame.mixer.init()
 print()
 print()
-print("------ Welcome to Pokemon battle ------\n")
+print("--------------------- Welcome to Pokemon battle ---------------------")
+print(r"""
+                                  ,'\
+    _.----.        ____         ,'  _\   ___    ___     ____
+_,-'       `.     |    |  /`.   \,-'    |   \  /   |   |    \  |`.
+\      __    \    '-.  | /   `.  ___    |    \/    |   '-.   \ |  |
+ \.    \ \   |  __  |  |/    ,','_  `.  |          | __  |    \|  |
+   \    \/   /,' _`.|      ,' / / / /   |          ,' _`.|     |  |
+    \     ,-'/  /   \    ,'   | \/ / ,`.|         /  /   \  |     |
+     \    \ |   \_/  |   `-.  \    `'  /|  |    ||   \_/  | |\    |
+      \    \ \      /       `-.`.___,-' |  |\  /| \      /  | |   |
+       \    \ `.__,'|  |`-._    `|      |__| \/ |  `.__,'|  | |   |
+        \_.-'       |__|    `-._ |              '-.|     '-.| |   |
+                                `'                            '-._|
+""")
+print("                         *cool music pause yoo*\n")
 
 pygame.mixer.music.load("music/start_music.mp3")
 pygame.mixer.music.play()
