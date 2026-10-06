@@ -79,7 +79,7 @@ def HP_checks():
         pygame.mixer.music.stop()
         pygame.mixer.music.load("music/victory.mp3")
         pygame.mixer.music.play()
-        sleep(12)
+        sleep(13)
         return True
 
     return False
