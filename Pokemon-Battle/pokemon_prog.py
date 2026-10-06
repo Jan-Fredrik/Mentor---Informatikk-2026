@@ -29,7 +29,7 @@ def player_attack():
     current_pokemon_rival["HP"] -= damage
 
     if current_pokemon_rival["HP"] < 0:
-        current_pokemon_rival["HP"] = 0
+        current_pokemon_rival["HP"] = 0 # Dette blir fanget opp av pokemon_Death_check(), ville ha funksjonene to-delt.
 
     print(f"{current_pokemon_player['name']} used {chosen_attack['name']}!")
     print(f"It did {damage} damage!")
